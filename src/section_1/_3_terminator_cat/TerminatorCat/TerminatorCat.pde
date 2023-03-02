@@ -8,15 +8,15 @@ int y=0;
 void setup() {
 
 // 2. Change "cat.jpg" to match the name of the image you selected
-cat = loadImage("cat.jpg");
+cat = loadImage("cat.jpg3");
 
 // 3. Set the size of the sketch.
-
+size(600,600);
 // 4. Resize the cat so it is the same size as the sketch
 
 // 5. DRAW CAT. Use the background() command to make the cat the background.
 //
-
+background(cat);
 
   }
 
